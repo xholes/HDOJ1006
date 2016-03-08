@@ -1,2 +1,1 @@
-# HDOJ1006
-HDOJ1006
+There are some practises about c++.
